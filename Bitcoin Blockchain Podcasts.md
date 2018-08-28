@@ -48,7 +48,7 @@
 <td>WCN</td>
 <td></td>
 <td></td>
-<td>Selective, veel ruis</td>
+<td>Selective, contains noise</td>
 </tr>
 <tr>
 <td>Lets talk btc</td>
