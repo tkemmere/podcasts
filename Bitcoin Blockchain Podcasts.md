@@ -15,16 +15,16 @@
 </thead>
 <tbody>
 <tr>
-<td>Stephan Lavira</td>
-<td>…</td>
-<td>…</td>
-<td>…</td>
+<td>Stephan Livera</td>
+<td><a href="https://overcast.fm/itunes1415720320/stephan-livera-podcast">Website</a></td>
+<td>-</td>
+<td></td>
 </tr>
 <tr>
 <td>Bottomshelf Bitcoin</td>
-<td>…</td>
-<td>…</td>
-<td>…</td>
+<td><a href="https://bottomshelfbitcoin.com">Website</a></td>
+<td>-</td>
+<td></td>
 </tr>
 <tr>
 <td>The Coin Pod</td>
@@ -51,7 +51,7 @@
 <td>Selective, contains noise</td>
 </tr>
 <tr>
-<td>Lets talk btc</td>
+<td>Lets talk BTC</td>
 <td>…</td>
 <td>…</td>
 <td>…</td>
@@ -69,61 +69,61 @@
 <td>…</td>
 </tr>
 <tr>
-<td>You. Me and btc</td>
+<td>You. Me and BTC</td>
 <td>…</td>
 <td>…</td>
 <td>…</td>
 </tr>
 <tr>
-<td>jameson lopp</td>
+<td>Jameson Lopp</td>
 <td>…</td>
 <td>…</td>
 <td>…</td>
 </tr>
 <tr>
-<td>unchained</td>
+<td>Unchained</td>
 <td>…</td>
 <td>…</td>
 <td>…</td>
 </tr>
 <tr>
-<td>offchain, with jimmy song</td>
+<td>Offchain, with jimmy song</td>
 <td>…</td>
 <td>…</td>
 <td>…</td>
 </tr>
 <tr>
-<td>deciphered</td>
+<td>Deciphered</td>
 <td>…</td>
 <td>…</td>
 <td>…</td>
 </tr>
 <tr>
-<td>the crypto bubble podcast</td>
+<td>The crypto bubble podcast</td>
 <td>…</td>
 <td>…</td>
 <td>…</td>
 </tr>
 <tr>
-<td>what bitcoin did</td>
+<td>What bitcoin did</td>
 <td>…</td>
 <td>…</td>
 <td>…</td>
 </tr>
 <tr>
-<td>did you know crypto</td>
+<td>Did you know crypto</td>
 <td>…</td>
 <td>…</td>
 <td>…</td>
 </tr>
 <tr>
-<td>citizen bitcoin</td>
+<td>Citizen bitcoin</td>
 <td>…</td>
 <td>…</td>
 <td>…</td>
 </tr>
 <tr>
-<td>the pad crypto podcast</td>
+<td>The pad crypto podcast</td>
 <td>…</td>
 <td>…</td>
 <td>…</td>
@@ -131,7 +131,7 @@
 <tr>
 <td>BNR Cryptocast</td>
 <td><a href="https://www.bnr.nl/podcast/cryptocast">Website</a></td>
-<td></td>
+<td>-</td>
 <td>In Dutch</td>
 </tr>
 <tr>
