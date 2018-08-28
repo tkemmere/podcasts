@@ -40,93 +40,93 @@
 </tr>
 <tr>
 <td>Bitcoin and Markets with Ansel Lindner</td>
-<td>-</td>
-<td><a href="https://overcast.fm/itunes1117715109/bitcoin-markets-with-ansel-lindner">Overcast.fm</a></td>
+<td><a href="http://bitcoinandmarkets.com/">Website</a></td>
+<td><a href="https://overcast.fm/itunes1117715109/bitcoin-markets-with-ansel-lindner">Overcast.fm</a> <a href="https://www.acast.com/bitcoinandmarkets">Acast.com</a></td>
 <td></td>
 </tr>
 <tr>
 <td>World Crypto Network</td>
 <td><a href="https://worldcryptonetwork.com/">Website</a></td>
-<td><a href="https://www.youtube.com/user/WorldCryptoNetwork">Youtube</a></td>
+<td><a href="https://www.youtube.com/user/WorldCryptoNetwork">Youtube</a> <a href="https://overcast.fm/itunes825708806/the-world-crypto-network-podcast">Overcast.fm</a></td>
 <td>Selective, contains noise</td>
 </tr>
 <tr>
 <td>Lets talk BTC</td>
-<td>…</td>
-<td>…</td>
-<td>…</td>
+<td>todo</td>
+<td>todo</td>
+<td></td>
 </tr>
 <tr>
 <td>Btc Knowledge</td>
-<td>…</td>
-<td>…</td>
-<td>…</td>
+<td>todo</td>
+<td>todo</td>
+<td></td>
 </tr>
 <tr>
 <td>JW Weatherman</td>
-<td>…</td>
-<td>…</td>
-<td>…</td>
+<td>todo</td>
+<td>todo</td>
+<td></td>
 </tr>
 <tr>
 <td>You. Me and BTC</td>
-<td>…</td>
-<td>…</td>
-<td>…</td>
+<td>todo</td>
+<td>todo</td>
+<td></td>
 </tr>
 <tr>
 <td>Jameson Lopp</td>
-<td>…</td>
-<td>…</td>
-<td>…</td>
+<td>todo</td>
+<td>todo</td>
+<td></td>
 </tr>
 <tr>
 <td>Unchained</td>
-<td>…</td>
-<td>…</td>
-<td>…</td>
+<td>todo</td>
+<td>todo</td>
+<td></td>
 </tr>
 <tr>
-<td>Offchain, with jimmy song</td>
-<td>…</td>
-<td>…</td>
-<td>…</td>
+<td>Offchain, with Jimmy Song</td>
+<td>todo</td>
+<td>todo</td>
+<td></td>
 </tr>
 <tr>
 <td>Deciphered</td>
-<td>…</td>
-<td>…</td>
-<td>…</td>
+<td>todo</td>
+<td>todo</td>
+<td></td>
 </tr>
 <tr>
 <td>The crypto bubble podcast</td>
-<td>…</td>
-<td>…</td>
-<td>…</td>
+<td>todo</td>
+<td>todo</td>
+<td></td>
 </tr>
 <tr>
 <td>What bitcoin did</td>
-<td>…</td>
-<td>…</td>
-<td>…</td>
+<td>todo</td>
+<td>todo</td>
+<td></td>
 </tr>
 <tr>
 <td>Did you know crypto</td>
-<td>…</td>
-<td>…</td>
-<td>…</td>
+<td>todo</td>
+<td>todo</td>
+<td></td>
 </tr>
 <tr>
-<td>Citizen bitcoin</td>
-<td>…</td>
-<td>…</td>
-<td>…</td>
+<td>Citizen Bitcoin</td>
+<td>todo</td>
+<td>todo</td>
+<td></td>
 </tr>
 <tr>
 <td>The pad crypto podcast</td>
-<td>…</td>
-<td>…</td>
-<td>…</td>
+<td>todo</td>
+<td>todo</td>
+<td></td>
 </tr>
 <tr>
 <td>BNR Cryptocast</td>
@@ -141,7 +141,13 @@
 <td>In Dutch, (non crypto)</td>
 </tr>
 </tbody>
-</table><p><a href="123">Website</a><br>
+</table><p>.<br>
+.</p>
+<p>.<br>
+.<br>
+.<br>
+.<br>
+<a href="123">Website</a><br>
 <a href="123">Youtube</a><br>
 <a href="123">Overcast.fm</a></p>
 
