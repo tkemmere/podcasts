@@ -46,7 +46,7 @@
 </tr>
 <tr>
 <td>World Crypto Network</td>
-<td></td>
+<td><a href="https://worldcryptonetwork.com/">Website</a></td>
 <td><a href="https://www.youtube.com/user/WorldCryptoNetwork">Youtube</a></td>
 <td>Selective, contains noise</td>
 </tr>
