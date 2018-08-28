@@ -45,9 +45,9 @@
 <td></td>
 </tr>
 <tr>
-<td>WCN</td>
+<td>World Crypto Network</td>
 <td></td>
-<td></td>
+<td><a href="https://www.youtube.com/user/WorldCryptoNetwork">Youtube</a></td>
 <td>Selective, contains noise</td>
 </tr>
 <tr>
@@ -87,4 +87,6 @@
 <td>In Dutch, (non crypto)</td>
 </tr>
 </tbody>
-</table>
+</table><p><a href="123">Website</a><br>
+<a href="123">Youtube</a></p>
+
