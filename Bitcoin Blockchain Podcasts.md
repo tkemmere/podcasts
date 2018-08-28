@@ -16,33 +16,33 @@
 <tbody>
 <tr>
 <td>Stephan Lavira</td>
-<td></td>
-<td></td>
-<td></td>
+<td>…</td>
+<td>…</td>
+<td>…</td>
 </tr>
 <tr>
 <td>Bottomshelf Bitcoin</td>
-<td></td>
-<td></td>
-<td></td>
+<td>…</td>
+<td>…</td>
+<td>…</td>
 </tr>
 <tr>
 <td>The Coin Pod</td>
-<td></td>
-<td></td>
-<td></td>
+<td>…</td>
+<td>…</td>
+<td>…</td>
 </tr>
 <tr>
 <td>Tales from the Crypt</td>
-<td></td>
-<td></td>
-<td></td>
+<td>…</td>
+<td>…</td>
+<td>…</td>
 </tr>
 <tr>
 <td>Bitcoin and Markets</td>
-<td></td>
-<td></td>
-<td></td>
+<td>…</td>
+<td>…</td>
+<td>…</td>
 </tr>
 <tr>
 <td>World Crypto Network</td>
@@ -52,27 +52,81 @@
 </tr>
 <tr>
 <td>Lets talk btc</td>
-<td></td>
-<td></td>
-<td></td>
+<td>…</td>
+<td>…</td>
+<td>…</td>
 </tr>
 <tr>
 <td>Btc Knowledge</td>
-<td></td>
-<td></td>
-<td></td>
+<td>…</td>
+<td>…</td>
+<td>…</td>
 </tr>
 <tr>
 <td>JW Weatherman</td>
-<td></td>
-<td></td>
-<td></td>
+<td>…</td>
+<td>…</td>
+<td>…</td>
 </tr>
 <tr>
 <td>You. Me and btc</td>
-<td></td>
-<td></td>
-<td></td>
+<td>…</td>
+<td>…</td>
+<td>…</td>
+</tr>
+<tr>
+<td>jameson lopp</td>
+<td>…</td>
+<td>…</td>
+<td>…</td>
+</tr>
+<tr>
+<td>unchained</td>
+<td>…</td>
+<td>…</td>
+<td>…</td>
+</tr>
+<tr>
+<td>offchain, with jimmy song</td>
+<td>…</td>
+<td>…</td>
+<td>…</td>
+</tr>
+<tr>
+<td>deciphered</td>
+<td>…</td>
+<td>…</td>
+<td>…</td>
+</tr>
+<tr>
+<td>the crypto bubble podcast</td>
+<td>…</td>
+<td>…</td>
+<td>…</td>
+</tr>
+<tr>
+<td>what bitcoin did</td>
+<td>…</td>
+<td>…</td>
+<td>…</td>
+</tr>
+<tr>
+<td>did you know crypto</td>
+<td>…</td>
+<td>…</td>
+<td>…</td>
+</tr>
+<tr>
+<td>citizen bitcoin</td>
+<td>…</td>
+<td>…</td>
+<td>…</td>
+</tr>
+<tr>
+<td>the pad crypto podcast</td>
+<td>…</td>
+<td>…</td>
+<td>…</td>
 </tr>
 <tr>
 <td>BNR Cryptocast</td>
