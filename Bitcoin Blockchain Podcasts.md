@@ -23,14 +23,14 @@
 <tr>
 <td>Bottomshelf Bitcoin</td>
 <td><a href="https://bottomshelfbitcoin.com">Website</a></td>
-<td>-</td>
+<td><a href="https://overcast.fm/itunes1335227408/bottomshelf-bitcoin">Overcast.fm</a></td>
 <td></td>
 </tr>
 <tr>
 <td>The Coin Pod</td>
-<td>…</td>
-<td>…</td>
-<td>…</td>
+<td>-</td>
+<td><a href="https://overcast.fm/itunes1350143328/the-coin-pod">Overcast.fm</a></td>
+<td></td>
 </tr>
 <tr>
 <td>Tales from the Crypt</td>
@@ -142,5 +142,6 @@
 </tr>
 </tbody>
 </table><p><a href="123">Website</a><br>
-<a href="123">Youtube</a></p>
+<a href="123">Youtube</a><br>
+<a href="123">Overcast.fm</a></p>
 
