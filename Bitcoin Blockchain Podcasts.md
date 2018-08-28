@@ -84,7 +84,7 @@
 <td>Café Weltschmerz</td>
 <td><a href="https://www.cafeweltschmerz.nl"> Website</a></td>
 <td><a href="https://www.youtube.com/channel/UClK9f1anqhuSaqDN5YE-wfw">Youtube</a></td>
-<td>In Dutch</td>
+<td>In Dutch, (non crypto)</td>
 </tr>
 </tbody>
 </table>
