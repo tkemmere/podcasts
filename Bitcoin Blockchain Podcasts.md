@@ -7,10 +7,10 @@
 <table>
 <thead>
 <tr>
-<th>Naam</th>
+<th>Name</th>
 <th>Website</th>
-<th>Link</th>
-<th>Opmerking</th>
+<th>Link on any other platform</th>
+<th>Remark</th>
 </tr>
 </thead>
 <tbody>
@@ -76,7 +76,7 @@
 </tr>
 <tr>
 <td>BNR Cryptocast</td>
-<td></td>
+<td><a href="https://www.bnr.nl/podcast/cryptocast">Website</a></td>
 <td></td>
 <td>In Dutch</td>
 </tr>
