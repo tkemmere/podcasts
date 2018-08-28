@@ -34,15 +34,15 @@
 </tr>
 <tr>
 <td>Tales from the Crypt</td>
-<td>…</td>
-<td>…</td>
-<td>…</td>
+<td>-</td>
+<td><a href="https://overcast.fm/itunes1292381204/tales-from-the-crypt">Overcast.fm</a></td>
+<td>By Marty Bent</td>
 </tr>
 <tr>
-<td>Bitcoin and Markets</td>
-<td>…</td>
-<td>…</td>
-<td>…</td>
+<td>Bitcoin and Markets with Ansel Lindner</td>
+<td>-</td>
+<td><a href="https://overcast.fm/itunes1117715109/bitcoin-markets-with-ansel-lindner">Overcast.fm</a></td>
+<td></td>
 </tr>
 <tr>
 <td>World Crypto Network</td>
