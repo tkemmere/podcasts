@@ -51,10 +51,10 @@
 <td>Selective, contains noise</td>
 </tr>
 <tr>
-<td>Lets talk BTC</td>
-<td>todo</td>
-<td>todo</td>
-<td></td>
+<td>The lets talk bitcoin network</td>
+<td><a href="https://letstalkbitcoin.com/">Website</a></td>
+<td><a href="https://overcast.fm/itunes640581455/the-lets-talk-bitcoin-network">Overcast.fm</a></td>
+<td>Is ths the same as “Lets talk BTC”?</td>
 </tr>
 <tr>
 <td>Btc Knowledge</td>
