@@ -54,12 +54,12 @@
 <td>The lets talk bitcoin network</td>
 <td><a href="https://letstalkbitcoin.com/">Website</a></td>
 <td><a href="https://overcast.fm/itunes640581455/the-lets-talk-bitcoin-network">Overcast.fm</a></td>
-<td>Is ths the same as “Lets talk BTC”?</td>
+<td></td>
 </tr>
 <tr>
 <td>Btc Knowledge</td>
-<td>todo</td>
-<td>todo</td>
+<td><a href="http://bitcoin.kn">Website</a></td>
+<td><a href="https://overcast.fm/itunes301670981/the-bitcoin-knowledge-podcast">Overcast.fm</a></td>
 <td></td>
 </tr>
 <tr>
