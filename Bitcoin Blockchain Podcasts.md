@@ -63,21 +63,21 @@
 <td></td>
 </tr>
 <tr>
-<td>JW Weatherman</td>
-<td>todo</td>
-<td>todo</td>
+<td>JW Weatherman’s Bitcoin Odyssey</td>
+<td>-</td>
+<td><a href="https://overcast.fm/itunes1406166827/jw-weathermans-bitcoin-odyssey">Overcast.fm</a></td>
 <td></td>
 </tr>
 <tr>
-<td>You. Me and BTC</td>
-<td>todo</td>
-<td>todo</td>
+<td>You, Me, and BTC: Liberty &amp; Bitcoin</td>
+<td><a href="https://youmeandbtc.com/">Website</a></td>
+<td><a href="https://overcast.fm/itunes1350568248/you-me-and-btc-liberty-bitcoin">Overcast.fm</a></td>
 <td></td>
 </tr>
 <tr>
 <td>Jameson Lopp</td>
-<td>todo</td>
-<td>todo</td>
+<td><a href="https://lopp.net/">Website</a></td>
+<td>-</td>
 <td></td>
 </tr>
 <tr>
@@ -142,12 +142,22 @@
 </tr>
 </tbody>
 </table><p>.<br>
+.<br>
+Written with <a href="http://Stackedit.io/app#">Stackedit.io/app#</a><br>
+.<br>
+.<br>
+.<br>
 .</p>
-<p>.<br>
-.<br>
-.<br>
-.<br>
+<p><a href="123">Youtube</a><br>
+<a href="123">Overcast.fm</a><br>
+<a href="123">Website</a><br>
+<a href="123">Youtube</a><br>
+<a href="123">Overcast.fm</a><br>
+<a href="123">Website</a><br>
+<a href="123">Youtube</a><br>
+<a href="123">Overcast.fm</a><br>
 <a href="123">Website</a><br>
 <a href="123">Youtube</a><br>
 <a href="123">Overcast.fm</a></p>
+<p><a href="123">Youtube</a></p>
 
