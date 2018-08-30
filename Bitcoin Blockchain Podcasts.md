@@ -39,10 +39,10 @@
 <td>By Marty Bent</td>
 </tr>
 <tr>
-<td>Bitcoin and Markets with Ansel Lindner</td>
+<td>Bitcoin and Markets</td>
 <td><a href="http://bitcoinandmarkets.com/">Website</a></td>
 <td><a href="https://overcast.fm/itunes1117715109/bitcoin-markets-with-ansel-lindner">Overcast.fm</a> <a href="https://www.acast.com/bitcoinandmarkets">Acast.com</a></td>
-<td></td>
+<td>with Ansel Lindner</td>
 </tr>
 <tr>
 <td>World Crypto Network</td>
@@ -78,7 +78,7 @@
 <td>Jameson Lopp</td>
 <td><a href="https://lopp.net/">Website</a></td>
 <td>-</td>
-<td></td>
+<td>Professional Cypherpunk, Creator of Statoshi, Infrastructure Engineer at Casa</td>
 </tr>
 <tr>
 <td>Unchained</td>
@@ -87,10 +87,10 @@
 <td>“Big Ideas From The Worlds Of Blockchain And Cryptocurrency”</td>
 </tr>
 <tr>
-<td>Offchain, with Jimmy Song</td>
-<td>todo</td>
-<td>todo</td>
-<td></td>
+<td>Offchain</td>
+<td>-</td>
+<td><a href="https://www.youtube.com/channel/UCEFJVYNiPp8xeIUyfaPCPQw">Youtube</a> <a href="https://www.acast.com/offchain">Acast.com</a></td>
+<td>with Jimmy Song</td>
 </tr>
 <tr>
 <td>Deciphered</td>
@@ -156,6 +156,4 @@ Written with <a href="http://Stackedit.io/app#">Stackedit.io/app#</a><br>
 <a href="123">Website</a><br>
 <a href="123">Youtube</a><br>
 <a href="123">Overcast.fm</a></p>
-<p><a href="123">Youtube</a></p>
-<p><a href="123">Youtube</a></p>
 
